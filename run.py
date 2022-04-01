@@ -1,0 +1,3 @@
+import instabotClub
+
+instabotClub.run()
